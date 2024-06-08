@@ -1,0 +1,46 @@
+WOS = Ivn OH/ 4 weeks avg Sales
+ = 20/5 = 4
+
+Fridge - Inv - 20
+
+1 wk = 7 Sales
+2 wk = 3 
+3 wk = 6
+4 wk = 4
+
+4 Wwks AVG sales = 5 Fridges
+
+
+
+
+
+
+
+
+mean absolute percentage error (MAPE), RFM (Recency, Frequency, Monetary)
+
+https://blog.hubspot.com/service/customer-segmentation
+
+https://www.analyticsvidhya.com/blog/2021/06/how-to-solve-customer-segmentation-problem-with-machine-learning/
+
+https://towardsdatascience.com/customer-segmentation-with-machine-learning-a0ac8c3d4d84
+
+demand forecast: 
+https://towardsdatascience.com/how-to-machine-learning-driven-demand-forecasting-5d2fba237c19
+
+gud1 with concepts: 
+https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48
+
+https://www.kaggle.com/competitions/demand-forecasting-kernels-only/code
+
+
+Here are a few typical answers:
+
+What is the current pricing of my product, and did it change over the last months?
+What is the monthly sales average of my product?
+Was the product recently out of stock?
+Are we currently running some promotions?
+
+
+
+

@@ -1,0 +1,12 @@
+
+change: 
+
+1. Creating year_month column
+2. Filtering US cntry only
+
+filtering k baas district 35 ho gye 
+4. filtering major department/Product Category, droping "other Bus" and "Not Applicable" to clean product item. 
+5. Reindexing columns
+6. creating product category as per BI to avoid ambiguity. 
+
+ 
